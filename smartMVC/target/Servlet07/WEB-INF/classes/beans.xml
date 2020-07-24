@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans>
+    <bean class="mvc.BizController"></bean>
+    <bean class="controller.EmpController"></bean>
+    <bean class="controller.UserController"></bean>
+</beans>
